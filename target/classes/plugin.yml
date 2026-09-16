@@ -1,0 +1,19 @@
+main: org.dpdns.wayne227304.DiscordWhitelist
+version: 1.0.0
+name: DiscordWhitelist
+author: Wayne
+description: DiscordWhitelist
+api-version: 1.20
+commands:
+  白名單:
+    description: 開啟 Java 版與基岩版白名單輸入視窗
+    usage: /白名單 [Java版名稱] [基岩版名稱]
+    permission: discordwhitelist.use
+    aliases:
+      - whitelist
+permissions:
+    discordwhitelist.use:
+        description: 使用白名單申請指令
+        default: true
+
+

@@ -1,0 +1,9 @@
+org\dpdns\wayne227304\commands\WhitelistCommand$JavaNamePrompt.class
+org\dpdns\wayne227304\utils\Utils.class
+org\dpdns\wayne227304\commands\WhitelistCommand$ResultPrompt.class
+org\dpdns\wayne227304\discord\DiscordManager.class
+org\dpdns\wayne227304\managers\PluginManager.class
+org\dpdns\wayne227304\commands\WhitelistCommand$BedrockNamePrompt.class
+org\dpdns\wayne227304\commands\WhitelistCommand.class
+org\dpdns\wayne227304\DiscordWhitelist.class
+org\dpdns\wayne227304\listeners\PlayerListener.class
