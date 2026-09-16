@@ -1,0 +1,18 @@
+discord:
+  enabled: true
+  token: "PUT_YOUR_BOT_TOKEN_HERE"
+  # Discord Slash Command 只能使用小寫英數、連字號或底線。
+  command-name: "whitelist"
+  guild-id: ""
+  command-permission: ""
+
+messages:
+  no-permission: "&c你沒有使用此指令的權限。"
+  usage: "&e用法：/白名單 [Java版名稱] [基岩版名稱]"
+  console-usage: "&e主控台請使用：/白名單 <Java版名稱> [基岩版名稱]"
+  ask-java: "&a請輸入 Java 版玩家名稱（可留白）："
+  ask-bedrock: "&a請輸入基岩版玩家名稱（可留白）："
+  at-least-one: "&cJava 版或基岩版至少需填寫一個。"
+  bedrock-prefix: "&e基岩板玩家不須要在前面加上 . 程式會自動加入"
+  added: "&a{player} 已新增至白名單並立即生效。"
+  already-whitelisted: "&e已在白名單，不須重新填加：{player}"
