@@ -116,4 +116,6 @@ discord:
 
 ## 授權
 
-目前尚未指定開源授權。
+本專案採用 MIT License。
+
+詳細內容請參閱 [LICENSE](https://github.com/Wayne27304/DiscordWhitelist/blob/main/LICENSE)。
